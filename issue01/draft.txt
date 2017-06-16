@@ -7,7 +7,8 @@ scope
 			proof of buyers:
 			https://community.babycenter.com/post/a43788427/sparkle_in_pink
 
-	X:	affiliate programs (<> drop shipping) , just mention that Amazon Associates, Etsy,... is one of them (CJ another one)
+	OK:	affiliate programs (<> drop shipping) , just mention that Amazon Associates, Etsy,... is one of them (CJ another one)
+		show screenshots of how source urls are added etc
 			notice source url is cloaked
 			https://www.pinterest.com/pin/309763280610358395/
 			https://www.pinterest.com/pin/AdwFq8ZkiIf9O2ncDeUtlck98tqk_hyS71j6xeIj7ylzmfTNwChhfnU/
