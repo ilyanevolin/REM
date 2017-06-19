@@ -74,15 +74,6 @@ many posts receive likes and comments from same accounts over and over again.
 post: https://www.blackhatworld.com/seo/rem-reverse-engineering-money-s01e02-timing-is-key.946918/
 -------------------
 
-investigating tumblr:
-http://toywaving.tumblr.com/
-
-niche research -> toys
-so many are into fashion, accessories, ... that they forget niches such as kids (toys)
-
-post: n.a.
-
---------------------
 
 http://watchanish.tumblr.com/
 https://www.facebook.com/watchanish/
@@ -97,6 +88,12 @@ http://forums.watchuseek.com/f2/watch-anish-up-interview-anish-bhatt-watch-anish
 
 
 ----------------------
+
+investigating tumblr:
+http://toywaving.tumblr.com/
+
+niche research -> toys
+so many are into fashion, accessories, ... that they forget niches such as kids (toys)
 
 it's a very recent tumblr blog
 however, most posts are reblogs (thus likes are not always theirs)
@@ -114,7 +111,6 @@ notice how careful they promote their products
 	the promo post is a reblog from here: https://mua-princess.tumblr.com/
 	looks like same people running multiple blogs
 
-------------------------
 
 direct affiliate link promotions
 http://uusan.tumblr.com/post/161740537798/1-2-3-4-5-6-7-8-9
@@ -125,14 +121,13 @@ http://uusan.tumblr.com/post/161670731023/roseglam-t-shirt
 
 	notice high rate of uploads per day
 
------------------
-
 another niche site
 	https://lynngunnclothing.tumblr.com/
 	notice goo.gl shortening affiliate links
 
 	some posts get a lot of likes/notes
 
+post: https://www.blackhatworld.com/seo/rem-reverse-engineering-money-s01e05-do-you-even-tumblr.948735/
 
 ---------------
 
@@ -174,6 +169,7 @@ post: https://www.blackhatworld.com/seo/rem-reverse-engineering-money-s01e04-mon
 
 ------------
 
+post about making money by targetting newbies
 using tumblr to lure in newbs
 	https://www.reddit.com/r/WorkOnline/comments/64yu13/how_to_make_money_online_as_a_16_year_old/
 
